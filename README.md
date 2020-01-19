@@ -1,4 +1,4 @@
-![](demogif.gif)
+![](https://github.com/nagacoder/Login-Animation-Border/blob/master/src/demogif.gif)
 ## Available Scripts
 
 In the project directory, you can run:
